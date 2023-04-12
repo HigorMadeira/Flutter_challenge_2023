@@ -1,6 +1,7 @@
 # random_colors_challenge
 
-A new Flutter project.
+A flutter challenge.
+here is a video of all features: https://drive.google.com/file/d/1Dz8__oD5ergZnrqOQExluwc96jmLfn3-/view?usp=share_link
 
 ## Getting Started
 
